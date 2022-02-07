@@ -62,7 +62,8 @@ input:focus {
 }
 
 #forgot-pass {
-    display: block;
+    display: inline-block;
+    margin-left: 60%;
     text-align: right;
     font-size: .8rem;
 }
